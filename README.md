@@ -1,4 +1,4 @@
-# Setup Rclone for GitHub Actions
+# Setup Rclone for GitHub Actions (FS)
 Setup [Rclone](https://rclone.org) on GitHub Actions to use `rclone`.
 
 This action installs [Rclone](https://rclone.org) for use in actions by installing it on tool cache using [AnimMouse/tool-cache](https://github.com/AnimMouse/tool-cache).
