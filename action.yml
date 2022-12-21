@@ -30,7 +30,7 @@ runs:
       run: $GITHUB_ACTION_PATH/scripts/download/macOS.sh
       
     - name: Install Rclone on tool cache
-      uses: AnimMouse/tool-cache@v1
+      uses: beqjanus/tool-cache@main
       with:
         folder_name: Rclone
         
